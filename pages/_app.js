@@ -14,12 +14,6 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        {/* <!-- 
- ___   ___  __ _  / _|  ___ | |(_)
-/ __| / __|/ _` || |_  / _ \| || |
-\__ \| (__| (_| ||  _||  __/| || |
-|___/ \___|\__,_||_|   \___||_||_| -->*/}
-
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <script
